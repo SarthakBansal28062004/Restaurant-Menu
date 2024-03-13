@@ -1,0 +1,66 @@
+<!-- <div class="item">
+            <h4>Red Sauce Pasta 🍎</h4>
+            <img class="image" src="/Images/Pasta.jpeg">
+            <hr>
+            <p>A classic Italian dish featuring pasta coated in a tangy, tomato-based sauce, often complemented with herbs, vegetables, and meats 🍝</p>
+            <hr>
+            <div class="buttons">
+                <button class="recipe">Liked it?</button>
+                <button class="like recipe"><i class="fa-solid fa-heart" style="color: #CD7F32;"></i></button>
+            </div>
+        </div>
+        <div class="item">
+            <h4>White Sauce Pasta 🍎</h4>
+            <img class="image" src="/Images/white-pasta.jpeg">
+            <hr>
+            <p>An indulgent pasta dish with a creamy, buttery sauce made from milk and flour, typically mixed with cheese and garlic for added flavor 🍝</p>
+            <hr>
+            <div class="buttons">
+                <button class="recipe">Liked it?</button>
+                <button class="like recipe"><i class="fa-solid fa-heart" style="color: #CD7F32;"></i></button>
+            </div>
+        </div>
+        <div class="item">
+            <h4>Veg Chowmein 🍎</h4>
+            <img class="image" src="/Images/chowmein.jpeg">
+            <hr>
+            <p>A popular noodle dish made with wheat noodles, vegetables, seasoned with soy sauce and other spices for a savory flavor 🍜</p>
+            <hr>
+            <div class="buttons">
+                <button class="recipe">Liked it?</button>
+                <button class="like recipe"><i class="fa-solid fa-heart" style="color: #CD7F32;"></i></button>
+            </div>
+        </div>
+        <div class="item">
+            <h4>Butter Chicken 🍎</h4>
+            <img class="image" src="/Images/butterchicken.jpeg">
+            <hr>
+            <p>A popular Indian dish featuring tender chicken cooked in a creamy, buttery tomato-based sauce, infused with aromatic spices, creating a savory and comforting culinary experience 🍗</p>
+            <hr>
+            <div class="buttons">
+                <button class="recipe">Liked it?</button>
+                <button class="like recipe"><i class="fa-solid fa-heart" style="color: #CD7F32;"></i></button>
+            </div>
+        </div>
+        <div class="item">
+            <h4>Vegetarian Burger 🍎</h4>
+            <img class="image" src="/Images/burger.jpeg">
+            <hr>
+            <p>A delicious vegetarian sandwich, typically consisting of a vegetable patty served in a bun with various toppings such as lettuce, tomato, onions, and sauces, offering a satisfying and flavorful meal option 🍔</p>
+            <hr>
+            <div class="buttons">
+                <button class="recipe">Liked it?</button>
+                <button class="like recipe"><i class="fa-solid fa-heart" style="color: #CD7F32;"></i></button>
+            </div>
+        </div>
+        <div class="item">
+            <h4>Chocolate Cake 🍎</h4>
+            <img class="image" src="/Images/chococake.jpeg">
+            <hr>
+            <p>A decadent dessert made with rich chocolate batter, often layered with creamy frosting or ganache, creating a moist and indulgent treat loved by many 🥮</p>
+            <hr>
+            <div class="buttons">
+                <button class="recipe">Liked it?</button>
+                <button class="like recipe"><i class="fa-solid fa-heart" style="color: #CD7F32;"></i></button>
+            </div>
+        </div> -->

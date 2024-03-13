@@ -1,0 +1,170 @@
+body{
+    margin: 0;
+}
+
+hr{
+    height: 5px;
+    background-color: rgb(254, 236, 178);
+}
+
+.fa{
+    color: #af0000;
+    font-size: 30px;
+}
+
+.heading{
+    background-image: url("https://www.cato.org/sites/cato.org/files/styles/aside_3x/public/2023-11/food-spread.jpg?itok=PPXLuOYP");
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 150px;
+    width: 100%;
+}
+
+.heading h2{
+    font-size: 40px;
+    font-family: fantasy;
+    font-weight: bold;
+}
+
+.options{
+    display: flex;
+    height: 150px;
+    width: 100%;
+    align-items: center;
+    justify-content: space-evenly;
+    background-size: cover;
+    background-color: rgb(244, 245, 245);
+}
+
+.options button{
+    height: 50%;
+    width: 11%;
+    border: 3px solid #CD7F32;
+    border-radius: 15px;
+    font-size: 28px;
+    font-family: fantasy;
+    font-weight: bold;
+}
+
+.soups{
+    background-image: url("https://www.saltandlavender.com/wp-content/uploads/2023/06/potato-vegetable-soup-11.jpg");
+    background-size: cover;
+}
+
+.drinks{
+    background-image: url("https://img.freepik.com/premium-photo/tray-with-various-cocktails-with-ice-isolated-white-background-blue-lagoon-martini-negroni-mojito-spritz-gimlet-cuba-libre-cosmopolitan-margarita_157173-2612.jpg");
+    background-size: cover;
+}
+
+.snacks{
+    background-image: url("https://img.freepik.com/premium-photo/tasty-burger-isolated-white-background-fresh-hamburger-fast-food-with-beef-vegetables-cheese_969517-159.jpg");
+    background-size: cover;
+}
+
+.breakfast{
+    background-image: url("https://images6.alphacoders.com/102/1022726.jpg");
+    background-size: cover;
+}
+
+.lunch{
+    background-image: url("https://c8.alamy.com/comp/2GMMKM0/mexican-food-tacos-isolated-on-white-background-top-view-2GMMKM0.jpg");
+    background-size: cover;
+}
+
+.dinner{
+    background-image: url("https://www.shutterstock.com/image-photo/grilled-salmon-vegetables-on-white-260nw-345148091.jpg");
+    background-size: cover;
+}
+
+.all{
+    background-image: url("https://img.freepik.com/premium-photo/banner-background-food-white-background-nature-backgrounds_879987-5926.jpg");
+    background-size: cover;
+}
+
+.desserts{
+    background-image: url("https://previews.123rf.com/images/jonnysek/jonnysek1510/jonnysek151000144/46322287-sweet-desserts-isolated-on-the-white-background.jpg");
+    background-size: cover;
+}
+
+.items{
+    margin: 20px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.items>*{
+    flex: 0 0 30%;
+}
+
+.item{
+    height: 685px;
+    width: 500px;
+    margin-right: 30px;
+    margin-left: 30px;
+}
+
+.image{
+    transition: ease-in-out all .4s;
+    border-radius: 20px;
+    height: 50%;
+    width: 100%;
+}
+
+.image:hover{
+    transition: ease-in-out all .4s;
+    box-shadow: 5px 5px 5px rgb(168, 168, 168);
+}
+
+.item h4{
+    font-family: fantasy;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.item p{
+    font-family: fantasy;
+    font-weight: bolder;
+}
+
+.recipe{
+    background-image: url("https://i.pinimg.com/originals/33/ef/8b/33ef8b9c0b902154a6cd4103a21275ef.jpg");
+    background-size: cover;
+    margin-top: 20px;
+    height: 70px;
+    width: 200px;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 20px;
+    border: 3px solid #CD7F32;
+    border-radius: 10px;
+    font-weight: bold;
+    transition: ease-in-out all .3s;
+}
+
+.recipe:hover{
+    transition: ease-in-out all .3s;
+    box-shadow: 3px 3px 5px #CD7F32;
+}
+
+.filter:hover{
+    transition: ease-in-out all .3s;
+    box-shadow: 3px 3px 5px #CD7F32;
+}
+
+.filter{
+    transition: ease-in-out all .3s;
+}
+
+.buttons{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.like{
+    font-size: 22px !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
